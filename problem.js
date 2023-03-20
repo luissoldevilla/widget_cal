@@ -8,7 +8,7 @@ function addToTarget(arr, target) {
     for (int of arr) {
         console.log(int)
         console.log(hashmap[int])
-        // console.log(i++)
+        console.log(i++)
         // if (int){
 
         // }
