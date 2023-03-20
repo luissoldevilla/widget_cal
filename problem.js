@@ -9,9 +9,9 @@ function addToTarget(arr, target) {
         console.log(int)
         console.log(hashmap[int])
         console.log(i++)
-        // if (int){
+        if (int){
 
-        // }
+        }
         
     }
     
