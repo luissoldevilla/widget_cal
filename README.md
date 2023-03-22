@@ -1,1 +1,1 @@
-# widget_cal
+# Customizing Google Calendar Widget for Notion
